@@ -26,4 +26,4 @@ Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
 
 ## Proyecto
 
-- [Proyecto](https://github.com/aacekm-7/Prediccion-Ventas-MediosPublicitarios)
+- [Proyecto](https://github.com/aacekm-7/Prediccion-Ventas-MediosPublicitarios/blob/main/proyecto_v2.ipynb)
