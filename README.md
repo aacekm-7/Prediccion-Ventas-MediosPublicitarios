@@ -24,3 +24,6 @@ Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
 - **MAE = 1.27** (miles de unidades)
 - **TV** resultó ser el canal con mayor poder predictivo, seguido de **Radio**; **Newspaper** mostró una relación casi nula con las ventas.
 
+## Proyecto
+
+- [Proyecto](https://github.com/aacekm-7/Prediccion-Ventas-MediosPublicitarios)
